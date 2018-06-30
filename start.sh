@@ -1,2 +1,2 @@
 #!/bin/sh
-nohup php cheat.php >/dev/null 2>&1 &
+nohup php cheat.php > message.log 2>&1 &
